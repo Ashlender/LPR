@@ -57,18 +57,22 @@
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/06.jpg)
 
 ## Выводы
+добавление коммита в файл
 
 ## Задание 6
 ### Подключение к удаленному репозиторию
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/09.jpg)
 
 ## Выводы
+просмотр коммитов 
 
 ## Задание 7
 ### Ветвление
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/15.jpg)
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/16.jpg)
+
 ## Выводы
+
 
 ## Задание 8
 ### Особенности применения «Фетч»
@@ -81,18 +85,21 @@
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/18.jpg)
 
 ## Выводы
+удаляет указанный файл
 
 ## Задание 10
 ### Отслеживание изменений в коммитах
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/19.jpg)
 
 ## Выводы
+git log и git diff это команды для отслеживания изменений в коммитах
 
 ## Задание 11
 ### Возвращение файла к предыдущему (определенному) состоянию
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/20.jpg)
 
 ## Выводы
+Команда git checkout используется для переключения веток
 
 ## Задание 12
 ### Возвращение к предыдущему коммиту
@@ -105,14 +112,18 @@
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/21.jpg)
 
 ## Выводы
+Изменение сообщений нескольких коммитов
 
 ## Задание 14
 ### Разрешение конфликтов при слиянии
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/22.jpg)
 
 ## Выводы
+Объединения двух веток
 
 ## Задание 15
 ### Настройка .gitignore
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/23.png)
+
 ## Выводы
+.gitignore нужен для исключения указанных файлов например: пароли и скоращение репозитория
