@@ -50,29 +50,28 @@ Git установлен
 
 ## Задание 5
 ### Фиксация изменений
-![Меню]()
+![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/06.jpg)
 
 ## Выводы
 
 
 ## Задание 6
 ### Подключение к удаленному репозиторию
-![Меню]()
+![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/09.jpg)
 
 ## Выводы
 
-
 ## Задание 7
 ### Ветвление
-![Меню]()
-
+![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/15.jpg)
+![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/16.jpg)
 ## Выводы
 
 
 
 ## Задание 8
 ### Особенности применения «Фетч»
-![Меню]()
+![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/17.jpg)
 
 ## Выводы
 
