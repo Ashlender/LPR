@@ -26,7 +26,7 @@
 ### Установка
 
 ### Результат.
-![Меню]()
+![Меню](https://github.com/Ashlender/LPR/blob/lab_1/pic/01.png)
 ## Выводы
 Git установлен
 
