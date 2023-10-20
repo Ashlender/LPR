@@ -1,0 +1,8 @@
+line = input("Enter ").lower()
+countLetter = sum(1 for char in line if char in "aeiou")
+newLine = line.replace("ugly", "beauty")
+print(f"Line length = {len(line)}.")
+print(f"Number of vowels = {countLetter}.")
+print(f"New line = {newLine}.")
+print(f"Line starts from 'The': {newLine.startswith('the')}.")
+print(f"Line ends on 'end': {newLine.endswith('end')}.")
