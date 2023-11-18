@@ -18,7 +18,7 @@
 
 ### Результат.
 ![Меню](https://github.com/Ashlender/LPR/blob/lab_7/pic/01.png)
-![Меню](https://github.com/Ashlender/LPR/blob/lab_7/pic/02.png)
+![Меню](https://github.com/Ashlender/LPR/blob/lab_7/pic/02.jpg)
 ## Выводы
 я поработал с файлами 
 
