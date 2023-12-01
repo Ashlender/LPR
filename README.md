@@ -64,11 +64,9 @@
 
 ### Результат.
 
-![Меню]()
-![Меню]()
-![Меню]()
-![Меню]()
-![Меню]()
+![Меню](https://github.com/Ashlender/LPR/blob/lab_9/pic/01.jpeg)
+![Меню](https://github.com/Ashlender/LPR/blob/lab_9/pic/02.jpeg)
+![Меню](https://github.com/Ashlender/LPR/blob/lab_9/pic/03.jpeg)
 
 ## Выводы
-
+Я научился работать с ООП в python
